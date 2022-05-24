@@ -1,8 +1,8 @@
 {
+  "homepage": "https://html-librarian.github.io/famo/",
   "name": "famo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://html-librarian.github.io/famo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
