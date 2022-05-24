@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/famo/static/js/main.5628a614.js",
+    "static/js/787.5a7577f3.chunk.js": "/famo/static/js/787.5a7577f3.chunk.js",
+    "index.html": "/famo/index.html",
+    "main.5628a614.js.map": "/famo/static/js/main.5628a614.js.map",
+    "787.5a7577f3.chunk.js.map": "/famo/static/js/787.5a7577f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5628a614.js"
+  ]
+}
